@@ -119,4 +119,4 @@ required or not. Fields in bold are required (NOT NULL):
     * **sightingId(PK, FK) - int**
 
 # ERD
-![alt text](https://github.com/karlwhelan62/superhero-sightings-java-spring-web-app/database/main/superherosightingsERD.png?raw=true)   
+![ERD Diagram](/database/superherosightingsERD.png)   
